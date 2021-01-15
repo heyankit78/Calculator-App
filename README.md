@@ -7,6 +7,7 @@ Download the entire code
 Open up the index.html.
 
 Technologies used:
+
 HTML
 CSS [Style]
 Javascript [Logic/Working of calculator]
